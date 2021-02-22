@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap");
+
+body {
+  background-color: #89c2d9;
+  text-align: center;
+}
+.wel {
+  text-transform: uppercase;
+  border: double;
+  border-width: 6px;
+  border-radius: 100px;
+  width: 25%;
+  margin-left: 37%;
+  font-family: "Anton", sans-serif;
+}
+img {
+  width: 260px;
+  border-radius: 180px;
+}
+.para {
+  font-size: 24px;
+  font-family: "Dancing Script", cursive;
+}
+.link {
+  font-size: 24px;
+  font-family: "Dancing Script", cursive;
+}
